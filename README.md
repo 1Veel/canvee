@@ -1,2 +1,2 @@
 # canvee
-A 2D game made using pygame.
+A 2D gaem made using pygame.
